@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5bd96707-5dac-441c-ba68-8a9d104b50b3": {
+      "ProjectGuid": "5bd96707-5dac-441c-ba68-8a9d104b50b3",
+      "DisplayName": "kafkaproducer",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2f0e5ce9-0782-485b-b374-ffe9108a34bc": {
+      "ProjectGuid": "2f0e5ce9-0782-485b-b374-ffe9108a34bc",
+      "DisplayName": "kafkaconsumer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
